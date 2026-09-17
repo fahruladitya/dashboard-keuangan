@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // maka base = '/dashboard-keuangan/'
 export default defineConfig({
   plugins: [react()],
-  base: "/dashboard-keuangan/",
+  base: "/",
 });
